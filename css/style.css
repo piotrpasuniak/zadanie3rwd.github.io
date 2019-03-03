@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Verdana', sans-serif;
+}
+
+#main-section {
+    display: flex;
+    height: 100vh;
+    background-image: url('../man-1.jpg');
+    background-position: center;
+    background-size: cover;
+    margin-left: 40px;
+    margin-right: 40px;
+    align-content: center;
+}
+
+.title {
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 40vh; 
+    margin-left: 5vh;
+}
