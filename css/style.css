@@ -24,3 +24,7 @@ body {
     margin-top: 40vh; 
     margin-left: 5vh;
 }
+
+.under-title {
+    display: none;
+}
