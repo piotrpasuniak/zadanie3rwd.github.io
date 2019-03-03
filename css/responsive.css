@@ -1,7 +1,9 @@
 @media all and (max-width: 1170px) {
     #main-section {
         height: 70vh;
-        background-image: url('../man-2.jpg'); 
+        background-image: url('../man-2.jpg');
+        margin-left: 0px;
+        margin-right: 0px; 
     }
 
     .title {
