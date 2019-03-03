@@ -1,6 +1,21 @@
+@media all and (max-width: 1170px) {
+    #main-section {
+        height: 70vh;
+        background-image: url('../man-2.jpg'); 
+    }
+
+    .title {
+        display: block;
+        margin-top: 10vh;
+        margin-left: 70vh; 
+    }
+
+}
+
 @media all and (max-width: 992px) {
     #main-section {
         height: 50vh;
+        background-image: url('../man-1.jpg');
         margin-left: 0px;
         margin-right: 0px;
     }
